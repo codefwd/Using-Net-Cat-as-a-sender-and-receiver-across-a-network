@@ -1,6 +1,6 @@
 
 # Using Netcat as a sender and receiver across a network
-Setting up a chat line between systems with Netcat and then sending a txt file from one sytem to another
+Setting up a chat line between systems with Netcat.
 ## Outline: Netcat can operate as a sender and receiver of arbitrary data across a network.
 
 Netcat is installed by default on my Kali and Metasploitable VMs which I will be using both in this demonstration.
@@ -42,5 +42,5 @@ Then I will type a message on my Kali to be sent to my Metasploitable VM
 
 to close the connection  -  do a ctl-C
 
-So that concludes the chat portion of Netcat. Now on to sending a text file from one system to another.
+So that concludes the chat portion of Netcat. Look for my other post about sending a text file from one system to another.
 
