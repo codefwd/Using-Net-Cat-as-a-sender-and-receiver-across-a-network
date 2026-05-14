@@ -40,3 +40,7 @@ Then I will type a message on my Kali to be sent to my Metasploitable VM
 
 <img width="903" height="274" alt="8" src="https://github.com/user-attachments/assets/d48d7619-2c5e-4d0a-8db9-0e37ce497cac" />
 
+to close the connection - do ctl-C
+
+So that concludes the chat portion of Netcat. Now on to sending a text file from one system to another.
+
